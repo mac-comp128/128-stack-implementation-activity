@@ -1,3 +1,3 @@
-# Project Title Goes Here
+# Stack Implementation Activity
 
-Info about your project goes here
+Instructions are [here](https://docs.google.com/document/d/1dJdFs0hRcDm_BNvI1x9bVe8IupPAJZgEf6bF4WTmvsQ/edit?usp=sharing).
