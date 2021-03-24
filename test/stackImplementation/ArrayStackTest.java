@@ -1,3 +1,4 @@
+package stackImplementation;
 import stackImplementation.arrayStack.ArrayStack;
 import stackImplementation.exceptions.EmptyCollectionException;
 import org.junit.jupiter.api.Test;
